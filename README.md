@@ -6,7 +6,7 @@
 - 📫 Ask me about Frontend
 - :zap: I love Film Making and listen to music
 
-![Alt text](https://user-images.githubusercontent.com/67319914/121816695-b3e39b00-cc9a-11eb-8d22-dd6bae348796.png)
+![Alt text](https://user-images.githubusercontent.com/67319914/121816825-70d5f780-cc9b-11eb-9906-836d15a625e3.png)
 <!-- <img src="https://user-images.githubusercontent.com/67319914/121816677-9e6e7100-cc9a-11eb-8065-0214b18e5319.png"> -->
 
 <!---
