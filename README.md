@@ -1,7 +1,7 @@
 - :wave: Hello, I’m RishikeshPolasa
 - 👀 I’m interested in Fullstack 
 - 🌱 I’m currently learning React JS, Node JS
-- 💞️ I’m looking to collaborate on React JS
+- 💞️ I’m looking to collaborate on ReactJS and NodeJS
 - :confused: I'm looking for help with Backend
 - 📫 Ask me about Frontend
 - :zap: I love Film Making and listen to music
