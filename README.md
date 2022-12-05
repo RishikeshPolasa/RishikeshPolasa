@@ -2,8 +2,7 @@
 - 👀 I’m interested in Fullstack 
 - 🌱 I’m currently learning React JS, Node JS
 - 💞️ I’m looking to collaborate on ReactJS and NodeJS
-- :confused: I'm looking for help with Backend
-- 📫 Ask me about Frontend
+- 📫 Ask me about Frontend Backend
 - :zap: I love Film Making and listen to music
 
 ![Alt text](https://user-images.githubusercontent.com/67319914/121816825-70d5f780-cc9b-11eb-9906-836d15a625e3.png)
